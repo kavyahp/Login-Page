@@ -147,7 +147,7 @@ label {
 }
 
 .input-field.active {
-  border-bottom-color: #151111;
+  border-bottom-color: #8371fd;
 }
 
 .input-field.active + label {
